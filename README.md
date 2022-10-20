@@ -23,4 +23,6 @@ Add items to a cart/basket prior to purchasing.
 Generating invoice of all items and printing them in pdf form.
 Purchasing items and delivering them to a specific address.
 
+ ## HomePage
  
+ ![Screenshot (73)](https://user-images.githubusercontent.com/95856673/196827425-d2930102-a62d-4b75-93b5-b586f4936091.png)
